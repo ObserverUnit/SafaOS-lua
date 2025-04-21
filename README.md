@@ -8,7 +8,7 @@ Download official Lua releases from [Lua.org](https://www.lua.org/download.html)
 
 > NOTE: this is SafaOS's port and therefore might not work on other systems.
 
-> NOTE: this is built for `kernel-snowball v0.2.4` and might be outdated If i didn't use lua in the project in the future because there would be no reason to maintain it, altough just bumping the `libc` commit should be enough.
+> NOTE: this is built for `kernel-snowball v0.2.1` and might be outdated If i didn't use lua in the project in the future because there would be no reason to maintain it, altough just bumping the `libc` commit should be enough.
 
 ## Building
 run:
